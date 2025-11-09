@@ -17,7 +17,7 @@ To develop a terminal-based system monitor that retrieves and displays key perfo
 ##  Technologies Used
 | Component | Description |
 |------------|-------------|
-| **Language** | C++17 |
+| **Language** | C++ |
 | **Platform** | Linux (Ubuntu / WSL) |
 | **Library** | ncurses |
 | **System Interface** | /proc filesystem |
