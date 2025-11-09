@@ -24,5 +24,3 @@ To develop a terminal-based system monitor that retrieves and displays key perfo
 
 ---
 
-##  Project Structure
-
