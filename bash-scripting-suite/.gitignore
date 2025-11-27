@@ -1,0 +1,8 @@
+# Backups and runtime files
+*.tar.gz
+*.log
+system-report.txt
+user-report.txt
+backups/
+*.backup
+*.backup.gz

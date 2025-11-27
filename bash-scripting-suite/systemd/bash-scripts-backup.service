@@ -1,0 +1,6 @@
+[Unit]
+Description=Run Bash Scripting Suite backup
+
+[Service]
+Type=oneshot
+ExecStart=/home/USER_PLACEHOLDER/path/to/scripts/backup.sh /path/to/src /path/to/dest rsync 7
